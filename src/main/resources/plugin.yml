@@ -1,0 +1,7 @@
+name: MapLink
+author: Flowsqy
+version: ${project.version}
+main: fr.flowsqy.maplink.MapLinkPlugin
+api-version: "1.16"
+depend:
+  - FakeMap
